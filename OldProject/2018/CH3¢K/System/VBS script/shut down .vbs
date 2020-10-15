@@ -1,0 +1,1 @@
+x=msgbox("Are you sure you want to shut down your mine?", 2+32, "Shut down")

@@ -1,0 +1,1 @@
+x=msgbox("You have successfully mined 1 CH3CK!", 2+64, "Successful mining trip!")
