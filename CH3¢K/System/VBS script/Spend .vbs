@@ -1,0 +1,1 @@
+ x=msgbox("Are you sure you want to spend a CH3CK. Warning! There are NO REFUNDS", 2+32, "Send CH3CK")
